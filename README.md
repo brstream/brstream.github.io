@@ -1,4 +1,4 @@
 brstream.github.io
 ==================
 
-Test jekyll site
+Test GitHub pages site
